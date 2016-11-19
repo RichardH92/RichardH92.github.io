@@ -4,23 +4,13 @@
  <title>Richard Hart</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2016-11-19T15:01:53-05:00</updated>
+ <updated>2016-11-19T14:59:26-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Richard Hart</name>
    <email>richardhart92@gmail.com</email>
  </author>
 
- 
- <entry>
-   <title>New Blog!</title>
-   <link href="http://localhost:4000/staging/2016/11/19/new-blog/"/>
-   <updated>2016-11-19T00:00:00-05:00</updated>
-   <id>http://localhost:4000/staging/2016/11/19/new-blog</id>
-   <content type="html">&lt;p&gt;I’m Richard Hart, a Software Engineer, and I’m starting a blog! I’ll be writing about things that interest me and what projects I’m currently working on. Thanks for visiting!&lt;/p&gt;
-
-</content>
- </entry>
  
  <entry>
    <title>New Blog!</title>
